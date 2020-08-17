@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+h1{
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    color: orchid;
+}
+h3{
+    font-family: 'Anton', sans-serif;
+    color: papayawhip;
+}
+
